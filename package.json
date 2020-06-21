@@ -1,7 +1,7 @@
 {
   "port": 5013,
-  "name": "PublicWiki",
-  "userName": "林一二",
+  "name": "tdwiki",
+  "userName": "xssor",
   "privateWikiName": "private-MyTiddlyWiki",
   "version": "1.0.0",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "optionalDependencies": {
     "node-linux": "0.1.12",
-    "node-mac-user": "0.1.10",
+    "node-mac-user": "^0.1.10",
     "node-windows": "1.0.0-beta.1"
   }
 }
